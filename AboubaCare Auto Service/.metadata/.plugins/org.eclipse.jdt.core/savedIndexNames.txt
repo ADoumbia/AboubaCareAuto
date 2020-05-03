@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\Aboub\OneDrive\AboubaCare Auto Service\.metadata\.plugins\org.eclipse.jdt.core
